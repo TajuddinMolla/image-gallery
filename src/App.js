@@ -16,7 +16,7 @@ function App() {
             </div>
             <div className="rounded-md border overflow-hidden cursor-pointer relative group">
               <input type="checkbox" className="w-[25px] h-[25px] absolute top-5 left-5 hidden group-hover:block z-20 cursor-pointer" />
-              <img src={ImgTwo} className="group-hover:opacity-30"/>
+              <img src={ImgTwo} className="group-hover:opacity-50"/>
             </div>
             <div className="rounded-md border overflow-hidden cursor-pointer">
               <img src={ImgThree} />
